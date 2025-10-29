@@ -21,4 +21,4 @@ These scripts include:
 ```
 ## References
 ```
-Khoi Nhat Pham, Eun Yeol Lee. Semi-endogenous PRT-based expression system for Methanotroph.
+Khoi Nhat Pham, Eun Yeol Lee. Development of a semi-endogenous PRT-based expression system for methanotrophs and its application to enhance 3-hydroxybutyric acid production from methanol.
