@@ -19,6 +19,6 @@ These scripts include:
 3. RBS.ipynb
 4. terminator_extract_filter_70nt_prediction.ipynb
 ```
-## References
+## Citations
 ```
-Khoi Nhat Pham, Eun Yeol Lee. Development of a semi-endogenous PRT-based expression system for Methylotuvimicrobium alcaliphilum and its application to enhance 3-hydroxybutyric acid production from methanol.
+Pham K.N. & Lee E.Y. Development of a semi-endogenous PRT-based expression system for Methylotuvimicrobium alcaliphilum and its application to enhance 3-hydroxybutyric acid production from methanol. J Biol Eng (2025). https://doi. org/10.1186/s13036-025-00592-y
